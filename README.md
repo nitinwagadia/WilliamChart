@@ -1,7 +1,7 @@
 #This is Xamarin.Android library port of WilliamChart
 
 WilliamChart is an Android Library to help the implementation of charts in android applications. </br>
-I have just ported the [``Orignal WilliamChart Library``][1] to support Xamarin.Android. The C# binding of WilliamChart can be found [``here``][2]. 
+This is just the port of [``Orignal WilliamChart Library``][1] to support Xamarin.Android. The C# binding of WilliamChart can be found [``here``][2]. 
 
 Feel free to contact me [``@ChoraChamkila``][3]
 
